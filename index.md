@@ -15,7 +15,7 @@ I am Gaurav, a researcher and educator from India, exploring the expansive realm
         <img src="{{ post.data.cover }}" />
         <div>
             <p class="meta">{{ post.data.date | postDate }} / {{ post.data.category }} </p>
-            <p><a href="{{ post.url | url}}">{{ post.data.title }}</a></p>
+            <p><a href="{{ post.url}}">{{ post.data.title }}</a></p>
         </div>
     </div>
     {%- endfor -%}

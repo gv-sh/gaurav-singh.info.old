@@ -5,7 +5,7 @@ date: 2017-09-25
 category: Exploration
 cover: https://cdn.mathscapes.xyz/static/images/2017/wor_5.jpg
 layout: layouts/default.njk
-permalink: /notes/pre-interact
+permalink: /notes/pre-interact/
 ---  
 
 A Platform to Explore Interaction with Personal Data Before, During, and After Motorcycle Commuting

@@ -5,7 +5,7 @@ date: 2012-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2012/2012.jpg
 layout: layouts/default.njk
-permalink: /notes/preparing-a-transition
+permalink: /notes/preparing-a-transition/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2012/2012.jpg"/>

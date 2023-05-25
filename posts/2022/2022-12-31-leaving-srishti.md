@@ -5,7 +5,7 @@ date: 2022-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2022/workspace.jpg
 layout: layouts/default.njk
-permalink: /notes/leaving-srishti
+permalink: /notes/leaving-srishti/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2022/workspace.jpg"/>

@@ -5,7 +5,7 @@ date: 2014-09-19
 category: Study
 cover: https://cdn.mathscapes.xyz/static/images/2014/situated-memory.jpg
 layout: layouts/default.njk
-permalink: /notes/situated-memory
+permalink: /notes/situated-memory/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2014/situated-memory.jpg"/>

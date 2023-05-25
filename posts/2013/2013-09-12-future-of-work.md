@@ -5,7 +5,7 @@ date: 2013-09-12
 category: Exploration
 cover: https://cdn.mathscapes.xyz/static/images/2013/future-of-work.jpg
 layout: layouts/default.njk
-permalink: /notes/future-of-work
+permalink: /notes/future-of-work/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2013/future-of-work.jpg"/>

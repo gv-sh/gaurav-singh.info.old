@@ -5,7 +5,7 @@ date: 2015-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2015/cpalle.jpg
 layout: layouts/default.njk
-permalink: /notes/contrasts-and-growth
+permalink: /notes/contrasts-and-growth/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2015/cpalle.jpg"/>

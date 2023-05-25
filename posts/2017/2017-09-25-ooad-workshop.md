@@ -5,7 +5,7 @@ date: 2017-09-25
 category: Workshop
 cover: https://cdn.mathscapes.xyz/static/images/2017/2.jpg
 layout: layouts/default.njk
-permalink: /notes/ooad-workshop
+permalink: /notes/ooad-workshop/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2017/1.webp"/>

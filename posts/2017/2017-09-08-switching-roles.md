@@ -5,7 +5,7 @@ date: 2017-09-08
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2017/switching.jpg
 layout: layouts/default.njk
-permalink: /notes/switching-roles
+permalink: /notes/switching-roles/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2017/switching.jpg"/>

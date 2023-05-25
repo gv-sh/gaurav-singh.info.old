@@ -1,7 +1,6 @@
 ---
 layout: layouts/default.njk
 title: About me
-subtitle:
 cover: https://cdn.mathscapes.xyz/static/images/2012.png
 ---  
    

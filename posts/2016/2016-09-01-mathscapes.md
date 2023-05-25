@@ -5,7 +5,7 @@ date: 2016-09-01
 category: Update
 cover: https://cdn.mathscapes.xyz/static/images/2016/mathscapes.jpg
 layout: layouts/default.njk
-permalink: /notes/mathscapes
+permalink: /notes/mathscapes/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2016/mathscapes.jpg"/>

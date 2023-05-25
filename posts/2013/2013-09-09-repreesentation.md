@@ -5,7 +5,7 @@ date: 2013-09-09
 category: Study
 cover: https://cdn.mathscapes.xyz/static/images/2013/representation.jpg
 layout: layouts/default.njk
-permalink: /notes/representation
+permalink: /notes/representation/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2013/representation.jpg"/>

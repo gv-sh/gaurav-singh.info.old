@@ -7,9 +7,4 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("postDate", (dateObj) => {
         return DateTime.fromJSDate(dateObj).toISODate();
       });
-
-    // Add / to all URLs
-    eleventyConfig.addFilter("url", (url) => {
-        return url + "/";
-    });
 };

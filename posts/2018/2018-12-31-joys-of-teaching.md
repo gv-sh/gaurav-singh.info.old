@@ -5,7 +5,7 @@ date: 2018-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2018/ninasam.jpg
 layout: layouts/default.njk
-permalink: /notes/joys-of-teaching
+permalink: /notes/joys-of-teaching/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2018/ninasam.jpg"/>

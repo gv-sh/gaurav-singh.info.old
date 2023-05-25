@@ -5,7 +5,7 @@ date: 2014-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2014/slabs.jpg
 layout: layouts/default.njk
-permalink: /notes/competing-interests
+permalink: /notes/competing-interests/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2014/slabs.jpg"/>

@@ -5,7 +5,7 @@ date: 2013-09-04
 category: Study
 cover: https://cdn.mathscapes.xyz/static/images/2013/reflection.jpg
 layout: layouts/default.njk
-permalink: /notes/first-by-reflection
+permalink: /notes/first-by-reflection/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2013/reflection.jpg"/>

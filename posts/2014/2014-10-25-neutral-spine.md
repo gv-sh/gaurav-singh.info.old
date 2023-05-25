@@ -5,7 +5,7 @@ date: 2014-10-25
 category: Yearly note
 cover: https://cdn.mathscapes.xyz/static/images/2014/neutral-spine.jpg
 layout: layouts/default.njk
-permalink: /notes/neutral-spine
+permalink: /notes/neutral-spine/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2014/neutral-spine.jpg">
