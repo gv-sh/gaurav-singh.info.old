@@ -1,0 +1,74 @@
+
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <!-- Add in beginning of head if including math equations -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css" integrity="sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0" crossorigin="anonymous">
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js" integrity="sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4" crossorigin="anonymous"></script>
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+                onload="renderMathInElement(document.body, {
+                            delimiters: [
+                                {left: '$$', right: '$$', display: true},
+                                {left: '$', right: '$', display: false},
+                            ],
+                            throwOnError : false
+                        });"></script>
+
+        <!-- Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KEN47XT3N8"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'G-KEN47XT3N8');
+        </script>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Beyond classrooms</title>
+        <link rel="stylesheet" href="/bundle.css">
+    </head>
+
+    <body>
+        <nav>
+            
+                <a href="/">Gaurav Singh</a>
+                <a href="/site-index">Index</a>
+            
+        </nav>
+        <main>
+            <article>
+                <header>
+                    
+                        <h1>Beyond classrooms</h1>
+                        
+                        
+                            <p class="meta">2019-12-31/Reflection</p>
+                        
+                    
+                </header>
+                
+                <img src="https://cdn.mathscapes.xyz/static/images/2019/future-making.jpg"/>
+<p>Students and I putting together an anamorphic invitation in N2 campus to the upcoming work (then) Making with Algorithms at Srishti's N5 campus. In frame: Arsh, Raashi, Abhijit, Ananya, Janaki, Vanshika and me</p>
+<p>In 2019, my teaching load was reduced, allowing me to explore diverse pedagogical approaches and their impact on student learning. This year proved transformative in my understanding and approach to education.</p>
+<p>I taught three courses throughout the year: Algorithms, computation, and HCI, which was a repetition of a course previously offered in 2017; Making with algorithms, which focused on the modern role of designers working with algorithmic-driven design; and Programming as a design tool for prototyping, a course repeated from 2018.</p>
+<p>The lighter teaching load gave me more time to work with students informally, urging open-ended conversations and encouraging students to pursue their genuine curiosities. This informal setting led to a more profound connection with the students and helped me identify their needs and aspirations. The Making with algorithms course, delivered in a remarkably different manner, became one of the most fulfilling courses I have facilitated to date.</p>
+<p>During this period of reflection and growth, I studied theories such as constructivism and constructionism, along with the works of renowned educators Jean Piaget and Seymour Papert. These theories allowed me to gain valuable insights into more nuanced aspects of learning and teaching, particularly while contextualizing them to mathematics and computer science. 2019 marked a significant turning point in my journey as an educator. By adopting new teaching methods and immersing myself in various learning theories, I continued to refine and adapt my teaching approach to better support students. This transformative period also led me to question the necessity of traditional classrooms for teaching.</p>
+<p>While classrooms provide a structured environment for learning, they can sometimes suppress the free flow of ideas and creativity. The informal learning environment I cultivated allowed students to be more engaged and curious, leading to more significant insights and personal growth. This realization raises an essential question: do we even need classrooms for teaching?</p>
+<p>By challenging the traditional confines of physical classrooms and embracing a flexible, student-centered approach, I have observed the potential for deeper and more meaningful learning experiences. As an educator, I am committed to exploring and questioning the role of classrooms in education, seeking creative methods to create a nurturing and engaging environment that fosters learning, curiosity, and personal development for students.</p>
+
+                
+            </article>
+
+            <footer>
+                <p>The Mathscapes wordmark is a registered trademark of Mathscapes Research, which is incorporated under the Companies Act, 2013 (18 of 2013) in India.</p>
+
+<p><a target="_blank" href="https://twitter.com/gvsh_maths">Twitter</a> <a target="_blank" href="https://github.com/gv-sh">Github</a> <a target="_blank" href="https://instagram.com/gvsh_maths">Instagram</a> <a target="_blank" href="https://mathscapes.xyz/privacy-policy">Privacy</a></p>
+            </footer>
+
+            <script>
+                document.getElementById("back").addEventListener("click", function () { window.history.back(); });
+            </script>
+        </main>
+    </body>
+</html>    
