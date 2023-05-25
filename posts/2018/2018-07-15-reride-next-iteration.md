@@ -3,7 +3,7 @@ tags: post
 title: Designing the next iteration of ReRide
 date: 2018-07-15
 category: Design
-cover: https://cdn.mathscapes.xyz/static/images/2018/3.jpeg
+cover: https://cdn.mathscapes.xyz/static/images/2018/3.jpg
 layout: layouts/default.njk
 permalink: /notes/reride-next-iteration
 --- 

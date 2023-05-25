@@ -8,4 +8,8 @@ module.exports = function (eleventyConfig) {
         return DateTime.fromJSDate(dateObj).toISODate();
       });
 
+    // Add / to all URLs
+    eleventyConfig.addFilter("url", (url) => {
+        return url + "/";
+    });
 };
