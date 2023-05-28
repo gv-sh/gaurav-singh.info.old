@@ -10,6 +10,8 @@ permalink: /notes/preparing-a-transition/
 
 <img src="https://cdn.mathscapes.xyz/static/images/2012/2012.jpg"/>
  
+Cover 
+
 In 2012, I encountered a period of slowing down as I transitioned from completing my 4-year engineering program in Computer Science to discovering the design field. The year was filled with uncertainties as I navigated unplanned, embracing challenges and opportunities for personal development. Shortly after concluding my engineering studies, I relocated to Chennai. I wasn't bothered about getting a job; just keen on furthering my education and expanding.
 
 Although my engineering career wasn't filled with any special achievements, it did give me some essential skills that I knew would be helpful to me in the future. As I went deeper into the design field, I began to appreciate the diverse possibilities that awaited me in this field. I looked forward to exploring them further as I continued to grow and learn.

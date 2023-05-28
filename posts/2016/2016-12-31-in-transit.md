@@ -9,7 +9,8 @@ permalink: /notes/in-transit/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2016/metro.jpg"/>
-<p class="caption">By the track at Cubbon park metro. Painting work was in progress on the side, power was disabled of course.</p>
+
+By the track at Cubbon park metro. Painting work was in progress on the side, power was disabled of course.
 
 The year 2016 was a transformative period, with experiences that impacted my professional and personal growth. My journey commenced with an invitation from Abhiyan Humane to collaborate with Art in Transit. This opportunity allowed me to hone various skills, such as pitching ideas to potential collaborators, supporting artists and students in developing creative technological installations, and handling various administrative tasks. I discovered growing interest in teaching and mentoring as I collaborated with students.
 

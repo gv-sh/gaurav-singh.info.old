@@ -3,7 +3,7 @@ tags: post
 title: Making with Algorithms
 date: 2019-12-31
 category: Photos
-cover: https://cdn.mathscapes.xyz/static/images/2019/future-making.jpg
+cover: https://cdn.mathscapes.xyz/static/images/2019/mwa_1.jpg
 layout: layouts/default.njk
 permalink: /notes/making-w-algorithms/
 --- 

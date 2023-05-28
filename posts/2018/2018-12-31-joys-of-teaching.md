@@ -9,7 +9,8 @@ permalink: /notes/joys-of-teaching/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2018/ninasam.jpg"/>
-<p class="caption">A monkey family opposite the Ninasam theatre during Shimoga expedition</p>
+
+A monkey family opposite the Ninasam theatre during Shimoga expedition
 
 2018 marked an inflection in my teaching journey as I engaged in different courses and workshops that enabled my growth as an educator. I facilitated various courses throughout the year, from visual thinking and programming to tangible computing. Each class presented distinctive challenges and opportunities for growth. For instance, during the visual thinking workshop, I observed students' adeptness in crafting multiple anamorphic artworks without prior planning on paper, relying instead on peer guidance. Additionally, I pursued the ReRide project, concentrating on designing the subsequent iteration and getting into camera-based posture tracking.
 

@@ -1,6 +1,7 @@
 ---
 tags: post
-title: Situated memory [SB+]
+title: Situated memory
+attrib: SB+
 date: 2014-09-19
 category: Study
 cover: https://cdn.mathscapes.xyz/static/images/2014/situated-memory.jpg
@@ -9,6 +10,8 @@ permalink: /notes/situated-memory/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2014/situated-memory.jpg"/>
+
+Cover 
 
 To devise a technology-based intervention that supports senior citizens in maintaining independence and self-confidence by harnessing situated memory, fostering self-efficacy, and facilitating the completion of daily tasks.
 

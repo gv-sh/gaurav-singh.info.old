@@ -9,7 +9,8 @@ permalink: /notes/first-year-at-srishti/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2013/old-campus.jpg" alt="Old Campus" />
-<p class="caption">After the first day at Srishti's old campus</p>
+
+After the first day at Srishti's old campus
  
 2013 was a year of new experiences. From attending the first design workshop in Bangalore to my eventual enrollment at Srishti, the year brought new experiences. I was eager to join a design school after dropping a year to prepare for it, and I imagined an open-ended program, giving me the responsibility to make decisions about my projects and courses. The reality was a bit different, as mandatory core courses blocked my time and left me busy for other projects.
 

@@ -10,7 +10,9 @@ permalink: /notes/first-by-reflection/
 
 <img src="https://cdn.mathscapes.xyz/static/images/2013/reflection.jpg"/>
 
-> By three methods, we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third, by experience, which is the bitterest. — Confucius
+Cover 
+
+\> By three methods, we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third, by experience, which is the bitterest. — Confucius
 
 Confucius indicates three distinct methods of acquiring wisdom: reflection, imitation, and experience. Each method has its advantages and disadvantages, offering a more comprehensive approach to personal growth and development. Reflection involves introspection and the examination of our own thoughts and emotions, allowing us to gain insight into our values and beliefs. It encourages self-awareness and self-discovery. However, it requires time, effort, and discipline, and it can be challenging to confront our own shortcomings. Imitation, on the other hand, involves observing and emulating the behavior and attitudes of others whom we admire. This might be the easiest learning method, as it requires less effort than reflection or experience. However, it can limit our creativity and authenticity and may not always apply to our unique circumstances. Finally, experience is the bitterest method of learning, as it involves going through the hardships and challenges of life and learning from our mistakes and failures. It is often the most effective method, allowing us to develop practical knowledge and skills tailored to our unique circumstances. However, it can be painful and difficult to accept, and it may take a long time to gain the necessary insights.
 
@@ -24,7 +26,7 @@ Reflective practice can be challenging, requiring practitioners to confront thei
 
 In the future, I hope to explore different reflective practice models and find the best approach for me. Additionally, I'm curious how reflective practice can be applied to other areas of my life.
 
-Notes
+## Notes
 
 1.  Winter, Richard. “Buddhism and Action Research: Towards an Appropriate Model of Inquiry for the Caring Professions.” Educational Action Research 11, no. 1 (March 2003): 141-60. https://doi.org/10.1080/09650790300200208.
 2.  Mac Suibhne, Seamus. “‘Wrestle to Be the Man Philosophy Wished to Make You': Marcus Aurelius, Reflective Practitioner.” Reflective Practice 10, no. 4 (September 2009): 429-36. https://doi.org/10.1080/14623940903138266.

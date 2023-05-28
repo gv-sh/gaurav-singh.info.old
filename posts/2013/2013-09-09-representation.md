@@ -10,9 +10,11 @@ permalink: /notes/representation/
 
 <img src="https://cdn.mathscapes.xyz/static/images/2013/representation.jpg"/>
 
+Cover 
+
 Recently, I attended a masterclass at Srishti on reflective practice, where I better understood its significance in personal and professional growth. I learned that reflective practice involves critically analyzing one's work and measuring change over time. It is a tool that empowers practitioners to learn from their mistakes, discover their reactions and actions, and identify their strengths and weaknesses. I also explored the challenges of reflective practice and the available models. Before reading Stuart Hall's book "Representation," [1] I was curious about how reflective practice can be applied to other areas of life.
 
-Stuart Hall, Representation: Cultural Representations and Signifying Practices, 2nd ed. (London: Sage Publications, 1997). https://psycnet.apa.org/record/1997-36930-000
+\> Stuart Hall, Representation: Cultural Representations and Signifying Practices, 2nd ed. (London: Sage Publications, 1997). https://psycnet.apa.org/record/1997-36930-000
 
 Stuart Hall's book "Representation" emphasizes the importance of critical thinking and self-awareness in navigating our complex social and cultural landscape. In the book, Hall explores how representation connects meaning to language and forms culture, influencing our thoughts and understanding of the world. According to Hall, representation is a complex process, and people form meanings based on how they perceive things. Representation involves signs, symbols, words, films, paintings, music, and other mediums allowing us to represent something and exchange meanings.
 
@@ -24,6 +26,6 @@ Representation aims to accurately describe or depict the object and create a men
 
 Stuart Hall's "Representation" contributes to our understanding of representation and its role in shaping culture and communication. Through exploring the complex interplay between language, culture, and meaning, Hall emphasizes the importance of critical thinking and self-awareness in navigating our complex social and cultural landscape. His book raises important questions about power dynamics and ideology. It highlights the need for practitioners to engage in reflective practice to identify their strengths and weaknesses and actively seek feedback from others. Furthermore, the book provides a valuable framework for understanding representation and its role in shaping our thoughts and understanding of the world. Hall's discussion of the reflective, intentional, and constructionist theories of representation helps readers understand how representation works in practice. The constructionist approach, in particular, offers a unique perspective on how we construct our thoughts based on conceptual maps stored in our brains and emphasizes the importance of shared meaning within a culture.
 
-Notes
+## Notes
 
 1. Stuart Hall, Representation: Cultural Representations and Signifying Practices, 2nd ed. (London: Sage Publications, 1997).

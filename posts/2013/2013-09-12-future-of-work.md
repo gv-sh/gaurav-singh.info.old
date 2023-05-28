@@ -1,6 +1,7 @@
 ---
 tags: post
-title: Future of Work — Imagining work experiences for the informal economy using emerging sensors [SJ+]
+title: Future of Work — Imagining work experiences for the informal economy using emerging sensors
+attrib: SJ+
 date: 2013-09-12
 category: Exploration
 cover: https://cdn.mathscapes.xyz/static/images/2013/future-of-work.jpg
@@ -9,6 +10,8 @@ permalink: /notes/future-of-work/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2013/future-of-work.jpg"/>
+
+Cover 
 
 The goal of this project, conducted by a team of four students as part of the ADP program at Srishti, was to redefine work experiences for unorganized workers using emerging sensor technologies. The team was divided into two groups, one focusing on enhancing professional growth with assisted tools and technologies, and the other on the social well-being of informal workers.
 

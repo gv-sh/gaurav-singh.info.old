@@ -10,6 +10,8 @@ permalink: /notes/neutral-spine/
 
 <img src="https://cdn.mathscapes.xyz/static/images/2014/neutral-spine.jpg">
 
+Cover
+
 To study aspects that efficiently improves the posture of physical rehabilitees suffering from posture-related problems due to back issues, using pervasive technology, personal informatics, and the Internet of Things (IoT). The goal is to enhance situated negotiation for exercising in out-of-clinic settings, enabling users to introspect their own body postures during daily chores and exercise, fostering self-reflection and motivation for regular exercise.
 
 Approximately 80% of the population experiences low back pain at some point in their lives, often due to poor posture and lifestyle factors. This project aims to reimagine the artifacts around rehabilitees to engage them in physical rehabilitation exercises and daily chores actively. The target audience includes individuals aged 20-70 years old in urban India suffering from posture-related problems due to back pain or undergoing physical rehabilitation.

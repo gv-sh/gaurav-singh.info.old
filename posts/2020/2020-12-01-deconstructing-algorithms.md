@@ -1,6 +1,7 @@
 ---
 tags: post
-title: Deconstructing algorithms [DD,SS,AA,NP,SM]
+title: Deconstructing algorithms 2020
+attrib: DD,SS,AA,NP,SM
 date: 2020-12-01
 category: Exploration
 cover: https://cdn.mathscapes.xyz/static/images/2020/2020.jpg
@@ -8,19 +9,22 @@ layout: layouts/default.njk
 permalink: /notes/deconstructing-algorithms/
 --- 
 
-<img src="https://cdn.mathscapes.xyz/static/images/2020/2020.jpg"/>
-<p class="caption">From left to right: Daksha Dixit [DD], Simran Singh [SS], Apoorva Avadhana [AA], Nupur Patny [NP] and Shreya Mishra [SM]</p>
 
-This note features student work.
+<img src="https://cdn.mathscapes.xyz/static/images/2020/1.jpg"/>
 
-Overview
+Deconstructing Algorithms 2020: Initial challenge brief given to the students
+
+## Overview
 
 Algorithms are everywhere, from recommending which movie to watch next, automate grunt jobs, or accessing any information at fingertips. As described by Ed Finn in his book What Algorithms want (Finn 2017), he referred algorithms as culture machines, as complex assemblages of abstractions, processes, and people. As much as they might appear magical, behind them exist things, obscured from the end-user. Such information is potent of being used for or against the users in ways which can flip scenarios where our actions are informed by algorithms around us and not the other way around. Furthermore, this brings us to the questions: How much of our actions can be informed by algorithms? and How might we attempt to make sense of complex algorithms and their effects and make their information accessible to everyone?
 
 Deconstructing Algorithms was offered as one of the thesis theme electives for the Undergraduate Design Program at Srishti Institute of Art, Design and Technology, Bangalore, India. Deconstructing Algorithms had invited aspiring practitioners to design experiments for sense-making and revealing algorithms by combining the contrasting viewpoints of understanding of the structured process of designing and programming algorithms, and the philosophical notion of deconstruction.
 
-Contributors
-------------
+## Contributors
+
+<img src="https://cdn.mathscapes.xyz/static/images/2020/2020.jpg"/>
+
+From left to right: Daksha Dixit [DD], Simran Singh [SS], Apoorva Avadhana [AA], Nupur Patny [NP] and Shreya Mishra [SM]
 
 1.  [Daksha Dixit](https://in.linkedin.com/in/daksha-dixit-31161a166): Daksha is a design researcher passionate about education, healthcare, storytelling, and design thinking. Employing a variety of research techniques, she develops authentic solutions and uncovers relevant problems. Her experience includes projects in education, communication strategy, and curriculum design.
 2.  [Simran Singh](https://www.linkedin.com/in/simran-singh-7bba87137): Passionate about nature's systems and technology, Simran is a Human-Centered Design major. She works with emerging technologies to identify and design meaningful interactions, blending her curiosity and expertise to create innovative solutions.
@@ -30,8 +34,7 @@ Contributors
 
 All rights belong to participants of the project.
 
-Foreword by Gaurav
-------------------
+## Foreword by Gaurav
 
 Algorithms and their implementation are often restricted to executives, designers, programmers, and mostly to a specific domain like computer science. This is a massive barrier for others to contribute to the making process or even make sense of it as the information comes from very discrete and structured forms (for, e.g., source code and system architecture). There is a need for creating passages into this field to allow more people and create a more inclusive environment. In one such effort, through this project, we envision to look at algorithms through the theories of deconstruction/post-structuralism, which can challenge the existing notions of algorithms in many ways — How might we attempt to understand algorithms beyond the existing structured ways? and What mediates between the algorithms and cultural reality? More such questions are worth engaging in the course of this project to bring forth this complex-verse of algorithms in front of everyone, especially those who could not participate due to restrictions posed by rigid compartmentalization of disciplines.
 
@@ -43,10 +46,11 @@ It is perhaps the most ambivalent I have felt in a while. It has undoubtedly bee
 
 It would also be unfair to authors and their efforts to call me as their project mentor for the work that is primarily initiated and managed by themselves. Maybe an occasional project mentor would be just. Finally, I congratulate them on all the hard work, all the nights, all the challenges they have gone through, as they could finally finish their thesis. But more importantly, I believe this will help them in becoming designers who will advocate for ethics and moral responsibilities over anything else.
 
-Deciphering algorithms — Discovering Algorithmic Literacy through the lens of Explainable AI; by Daksha Dixit and Simran Singh
-------------------------------------------------------------------------------------------------------------------------------
+## Deciphering algorithms — Discovering Algorithmic Literacy through the lens of Explainable AI; by Daksha Dixit and Simran Singh
 
-What if users could interact with elements they see on the user interface, inspect the digital systems they use, and understand the algorithm-driven processes behind them?
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1479566389%3Fsecret_token%3Ds-z1NywnhE5id&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+\> What if users could interact with elements they see on the user interface, inspect the digital systems they use, and understand the algorithm-driven processes behind them?
 
 With back-end algorithmic processes becoming increasingly obscured and vastly complex, users are often unaware of the rationale employed behind the services they use. There is a call for a new kind of literacy. This project proposes 'Algorithmic literacy', which brings to the forefront information about algorithmic processes that automate and augment tasks users engage with on digital services. What one's agency is in algorithmic decision making and what actions they can control on a digital service are also parts of the proposed algorithmic literacy.
 
@@ -56,10 +60,12 @@ While looking to engage users with this information, it is important to locate r
 
 The project proposes to relook at users as learners, and their interactions with digital services as a 'site for learning'. We propose Algo-Lit plugin which helps users understand their preferences, available user controls on a digital service, understand what different User Interface elements mean and how they contribute in the decision making of the algorithmic processes and the entire system of decision making. The project is a speculation of explainability of AI features for end-users.
 
-Greenbox algorithms — Financial indicators that motivate impact investment behavior; by Apoorva Avadhana, Nupur Patny and Shreya Mishra
----------------------------------------------------------------------------------------------------------------------------------------
+## Greenbox algorithms — Financial indicators that motivate impact investment behavior; by Apoorva Avadhana, Nupur Patny and Shreya Mishra
 
-Designing novel ways to motivate responsible investing behavior by creating an experimental stock indicator
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1479568984%3Fsecret_token%3Ds-XSKRLFyYQtg&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+\> Designing novel ways to motivate responsible investing behavior by creating an experimental stock indicator
 
 As the global community aims to deliver on the United Nations' Sustainable Development Goals for 2030, there is increasing recognition that governments alone cannot facilitate the necessary change and funding. Citizens, governments, and investors are increasingly looking to companies to take responsibility and address societal challenges. The first step towards this is for companies to take accountability for their own sustainable practices and make that information transparently available for investors and consumers. The medium for this is ESG reporting (Environmental, Social, and Governance) which has only recently begun to have financial relevance for companies. Yet, ESG performance is still under-reported, and the onus for complete disclosure lies solely with the companies themselves. Impact investors use this report to analyze a company's sustainability performance and accountability and make responsible investments. The value that these investors possess is called 'Blended Value', where they consider environmental, social, and economic performance when making an investment.
 
@@ -67,8 +73,7 @@ We have created a platform to nudge investors towards impact investing by creati
 
 This project was also awarded first prize in the category of Social Impact and Bottom-up design by [IAMAI Design Leadership Awards 2020](http://www.designsummit.in), first place at the ADI Awards 2021 under the category of Design for Social Impact at [Pune Design Festival 2021](https://www.punedesignfestival.com/), and also created an opportunity for them to discuss their work with members at Zerodha, a leading stockbroker in India.
 
-Epilogue by Vineeta Rath
-------------------------
+## Epilogue by Vineeta Rath
 
 The brief, to 'deconstruct algorithms' is not an easy one - because these 'intangible instructions' remain 'hidden' from average humans, who go about their daily lives in a more-or-less 'tangible' world. Irrespective of where they are deployed, functioning in the background, these algorithms remain unquestioningly sincere to the human minds that built them. And, more often than not, may also have embedded within them, innocently, the intelligences, interests and biases of their creators. Not to speak of the unexpected powers algorithms can acquire over time, as they evolve through learning the environments they are deployed in, both human and non-human.
 
@@ -80,12 +85,11 @@ From breaking down words to understand the constructs of a language, to explorin
 
 Tenacious and determined as each one of them is, in her own way, what is really promising about Apoorva, Daksha, Nupur, Shreya and Simran is their genuine passion to not just prepare for the future, but actively build it, through their conscious, informed efforts. And their dreams and actions for a better world only give me more hope in the future - of these five spirited individuals of course! - but also of the world that tomorrow will be!
 
-Shine your light on the world girls, your time has come!
+\> Shine your light on the world girls, your time has come!
 
 (Vineeta Rath, a faculty member at Srishti-Manipal Institute, has been a mentor to the participants of this project throughout their bachelor's program at Srishti. She has had the unique opportunity to witness the growth of these students firsthand.)
 
-Acknowledgement
----------------
+## Acknowledgement
 
 1.  Dr. Venkat Chilukuri: for his review and suggestion on project brief; and helping in facilitating the signup process
 2.  Vineeta Rath: for recommending students to join this project; and supporting this project to happen; for help in initial setup of the project space; for being constant support to students
@@ -110,11 +114,6 @@ Acknowledgement
 21.  Paul Anthony: for reviewing the project and his feedback
 22.  Several others: Agrim Agarwal, Rohit Patny, Balchand Singhi, Debashish Banerjee, Shriniwas Mishra, Vijay Kumar, Niteen Pradhan, Ravi Mani, Ranjani Balasubramanian
 
-This note features student work.
-
-<img src="https://cdn.mathscapes.xyz/static/images/2020/1.jpg"/>
-
-<p class="caption">Deconstructing Algorithms 2020: Initial challenge brief given to the students</p>
 
 <img src="https://cdn.mathscapes.xyz/static/images/2020/2.jpg"/>
 
@@ -122,7 +121,7 @@ Simran has a great sense of organisation. You will find her desk all neat and or
 
 <img src="https://cdn.mathscapes.xyz/static/images/2020/3.jpg"/>
 
-<p class="caption">(Picture on left) Green team is forced to put down their plan for the next few weeks. I hoped to contribute in their thinking process, but they did an amazing job on their own. I failed to understand how they did it all but credit goes to them for the putting together the mountain of hard work.</p>
+(Picture on left) Green team is forced to put down their plan for the next few weeks. I hoped to contribute in their thinking process, but they did an amazing job on their own. I failed to understand how they did it all but credit goes to them for the putting together the mountain of hard work.
 
 <img src="https://cdn.mathscapes.xyz/static/images/2020/4.jpg"/>
 
@@ -130,10 +129,14 @@ Project room - 407, Srishti's N5 campus in Bangalore. The pandemic is here. Stud
 
 <img src="https://cdn.mathscapes.xyz/static/images/2020/5.jpg"/>
 
-<p class="caption">Evening before the exhibition. The creators are shooting a tutorial video.</p>
+Evening before the exhibition. The creators are shooting a tutorial video.
 
 Oribaka — A language to make Origami for the visually impaired. One of the activities pursued by all of the participants to build a first hand of understanding of "algorithmic thinking" - a systematic way of breaking down a task into smaller steps and then solving each of those steps in a logical manner. The activity was to create a language to make origami for the visually impaired. The language was created by the team and then showcased to several people to understand the effectiveness of the language.
 
-Brainstorming while building the language
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/_KFUswH6WJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Trying out the language with Rafiki folks
+<p class="caption">Brainstorming while building the language</p>
+
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/P2RBCs36yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p class="caption no-mt">Trying out the language with Rafiki folks</p>

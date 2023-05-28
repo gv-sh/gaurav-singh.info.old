@@ -16,6 +16,7 @@ I am Gaurav, a researcher and educator from India, exploring the expansive realm
         <div>
             <p class="meta">{{ post.data.date | postDate }} / {{ post.data.category }} </p>
             <p><a href="{{ post.url}}">{{ post.data.title }}</a></p>
+            {% if post.data.attrib %}<p class="meta">{{ post.data.attrib }}</p>{% endif %}
         </div>
     </div>
     {%- endfor -%}
