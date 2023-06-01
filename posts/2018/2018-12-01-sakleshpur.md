@@ -5,7 +5,7 @@ date: 2018-12-01
 category: Photos
 cover: https://cdn.mathscapes.xyz/static/images/2018/skpr_4.jpg
 layout: layouts/default.njk
-permalink: /notes/sakleshpur/
+permalink: /notes/2018/sakleshpur/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2018/skpr_1.jpg">

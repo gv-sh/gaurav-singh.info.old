@@ -5,7 +5,7 @@ date: 2012-07-08
 category: Study
 cover: https://cdn.mathscapes.xyz/static/images/2012/multimarker.jpg
 layout: layouts/default.njk
-permalink: /notes/multimarker/
+permalink: /notes/2012/multimarker/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2012/multimarker.jpg"/>

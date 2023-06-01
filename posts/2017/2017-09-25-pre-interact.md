@@ -5,7 +5,7 @@ date: 2017-09-25
 category: Exploration
 cover: https://cdn.mathscapes.xyz/static/images/2017/wor_5.jpg
 layout: layouts/default.njk
-permalink: /notes/pre-interact/
+permalink: /notes/2017/pre-interact/
 ---  
 
 \> What if information about a rider’s condition such as body posture, lean angles, heart-rate, etc., were made available as part of the ride experience?

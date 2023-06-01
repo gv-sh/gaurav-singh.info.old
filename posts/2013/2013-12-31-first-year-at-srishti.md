@@ -5,7 +5,7 @@ date: 2013-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2013/old-campus.jpg
 layout: layouts/default.njk
-permalink: /notes/first-year-at-srishti/
+permalink: /notes/2013/first-year-at-srishti/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2013/old-campus.jpg" alt="Old Campus" />

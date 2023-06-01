@@ -5,7 +5,7 @@ date: 2017-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2017/iitb.jpg
 layout: layouts/default.njk
-permalink: /notes/back-to-srishti/
+permalink: /notes/2017/back-to-srishti/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2017/iitb.jpg"/>

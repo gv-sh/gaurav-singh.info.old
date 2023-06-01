@@ -1,11 +1,11 @@
 ---
 tags: post
 title: Making with Algorithms
-date: 2019-12-31
+date: 2019-11-28
 category: Photos
 cover: https://cdn.mathscapes.xyz/static/images/2019/mwa_1.jpg
 layout: layouts/default.njk
-permalink: /notes/making-w-algorithms/
+permalink: /notes/2019/making-w-algorithms/
 --- 
  
 <img src="https://cdn.mathscapes.xyz/static/images/2019/mwa_1.jpg"/>

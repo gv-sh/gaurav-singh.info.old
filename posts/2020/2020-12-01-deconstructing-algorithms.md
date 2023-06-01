@@ -6,7 +6,7 @@ date: 2020-12-01
 category: Exploration
 cover: https://cdn.mathscapes.xyz/static/images/2020/2020.jpg
 layout: layouts/default.njk
-permalink: /notes/deconstructing-algorithms/
+permalink: /notes/2020/deconstructing-algorithms/
 --- 
 
 
