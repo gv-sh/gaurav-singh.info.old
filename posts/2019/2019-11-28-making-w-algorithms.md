@@ -1,12 +1,15 @@
 ---
 tags: post
 title: Making with Algorithms
+attrib: with students
 date: 2019-11-28
 category: Photos
 cover: https://cdn.mathscapes.xyz/static/images/2019/mwa_1.jpg
 layout: layouts/default.njk
 permalink: /notes/2019/making-w-algorithms/
 --- 
+
+This note features student work.
  
 <img src="https://cdn.mathscapes.xyz/static/images/2019/mwa_1.jpg"/>
 

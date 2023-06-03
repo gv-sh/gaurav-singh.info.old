@@ -1,14 +1,19 @@
 ---
 tags: post
 title: Designing the next iteration of ReRide
-attrib: NB,TS,RS,VR,AN,CH,AE,PD,MA,AS,SO,AR+
+attrib: with ReRide team
 date: 2018-07-15
 category: Design
 cover: https://cdn.mathscapes.xyz/static/images/2018/3.jpg
 layout: layouts/default.njk
 permalink: /notes/2018/reride-next-iteration/
 --- 
-ReRide, after the [demo at Interact 2017](../2017/post-interact.html) went into its dormancy for some time due to our teaching engagements. But after an [excellent, rigorous session of making](../2017/pre-interact.html) and building the prototype for Interact 2017, we did learn a few things about rethinking the underlying architecture to create a more stable platform.
+
+<img src="https://cdn.mathscapes.xyz/static/images/2018/3.jpg"/>
+
+Mounting FSRs to study weight distribution during different postures
+
+ReRide, after the demo at Interact 2017 went into its dormancy for some time due to our teaching engagements. But after an excellent, rigorous session of making and building the prototype for Interact 2017, we did learn a few things about rethinking the underlying architecture to create a more stable platform.
 
 ## Technical challenges in the earlier demonstration
 
@@ -31,17 +36,9 @@ The first round of work development post-Interact conference was doing an explor
 1. During April, we went back to the physiotherapist to get insights into the relevant body parts or aspects that should be read to understand rider’s posture. One of the information highlighted through the conversation is the complexity of extracting posture information itself, and need sophisticated machinery or multiple different scanning of crucial parts/joints which can only be deciphered by the specialist to recommend corrective measures to the patient. However, we are not trying to get exact configuration at which rider’s body part is in, but trying to get an overall sense of the posture through a minimal set of sensing points which can be useful in preventive healthcare.
 2. We went back on the paper and planned how we can now move forward conceptually and design the prototype. Over the next month, Anchit joined us to work on the new iteration. The second week of May went quite fast-paced when Tomas Sokoler visited us to rework on the higher level architecture of the platform and to meet possible collaborators to explore intersections.
 
-<img src="https://cdn.mathscapes.xyz/static/images/2018/1.jpg"/>
-
-ReRide 2 System Architecture — Bike Area Network
-
 ## ADAFruit Mess and hiccups with ARM architecture
 
 Switching to Raspberry Pi seems such a good option until you realize that Raspberry Pi does not allow native serial interfacing for analog devices. Well, there are a lot of possibilities to an interface, we found out that ADAfruit has a lot of readily available ADC (Analog to Digital converters) that support I2C communication. While that was supposed to not take much time for interfacing, it took us a little more due to multiple issues in circuit and ADAfruit library for the ADS1115.
-
-<img src="https://cdn.mathscapes.xyz/static/images/2018/2.jpg"/>
-
-Mounting FSRs to study weight distribution during different postures
 
 One small but significant bit is to understand that Raspberry Pi is based on ARM architecture and you may not find pre-compiled binaries for a lot of libraries that may be required to develop an IoT prototype. In our case, we are using Python >3.4, and OpenCV >3.2 and that led us to build all the dependencies from source on RPi to ensure maximum compatibility. Building OpenCV from source on RPi ZeroW took us over 4+ hours.
 
@@ -49,11 +46,7 @@ One small but significant bit is to understand that Raspberry Pi is based on ARM
 
 In the next version, we took a step back and looked at first accomplishing the ability to detect and extract posture information rather than spending time on image recognition problem itself. The camera system uses an 8 MP NoIR camera with an RPi Zero, capable of detecting specific markers which are placed on the rider’s helmet and body to get the coordinates of head and shoulder to extract proximity and orientation.
 
-<img src="https://cdn.mathscapes.xyz/static/images/2018/4.jpg"/>
-
-System to extract useful data points for posture estimation from the markers
-
-<img src="https://cdn.mathscapes.xyz/static/images/2018/3.jpg"/>
+<img src="https://cdn.mathscapes.xyz/static/images/2018/2.jpg"/>
 
 Enclosure for mounting camera system (by Chakra/Vineeta)
 

@@ -2,11 +2,15 @@
 tags: post
 title: Interact 2017 — ReRide demo and more
 date: 2017-09-30
-category: Exploration
+category: Design
 cover: https://cdn.mathscapes.xyz/static/images/2017/interact_7.jpg
 layout: layouts/default.njk
 permalink: /notes/2017/post-interact/
 --- 
+
+<img src="https://cdn.mathscapes.xyz/static/images/2017/interact_7.jpg" alt=""/> 
+
+Cover
 
 Beginning to write this as we complete the first day of ReRide demonstration at Interact 2017 Conference in IIT Bombay. The last week till afternoon today have been quite intense for us but also has been quite fruitful. It was very gratifying to finally see the synergy of the team to complete the demo despite few challenges we faced. The demo intended to develop a working proof of concept to demonstrate the intent, which we think has met, though the time crunch has affected us and we could not do the pilot test in a real setting. Nevertheless, we were ready for the Demo. The entire exercise just echoed what I already believe. There is a lot of value in making physical and working concepts (esp. for designers), more often you’ll find that you’re rethinking most of your design decisions made when drafting ideas. What you see is “not” what you get!
 
@@ -20,8 +24,6 @@ One of the things that I think is quite instrumental for designers is the abilit
 
 <img src="https://cdn.mathscapes.xyz/static/images/2017/interact_5.jpg" alt=""/>
 
-<img src="https://cdn.mathscapes.xyz/static/images/2017/interact_7.jpg" alt=""/> 
-
 Photographs of putting together the ReRide demo prototype for Interact Conference.
 
 Our prototype included — a) Seat cover with sensors embedded to get information about rider’s balance, b) a wearable sensor to sense how much rider lean in, c) a mobile/dashboard display, d) a push button near the left handle. These components together sense rider’s posture and present an abstract visualization to the rider during or post ride.
@@ -29,10 +31,6 @@ Our prototype included — a) Seat cover with sensors embedded to get informatio
 <img src="https://cdn.mathscapes.xyz/static/images/2017/interact_6.jpg" alt=""/>
 
 ReRide Demo space for Interact 2017 at Victor Menezes Convention Center, IIT Bombay.
-
-<img src="https://cdn.mathscapes.xyz/static/images/2017/interact_8.jpg" alt=""/>
-
-Mangesh Ashrit and Somya Saxena explaining through prototype at the ReRide demo space.
 
 Bagalkot, Naveen, Tomas Sokoler, Riyaj Shaikh, Gaurav Singh, Anders Edelbo Lillie, Pratiksha Dixit, Aditi Rai, Chakravarthy Vignesh, and Ashwin Senthil. ‘ReRide: A Platform to Explore Interaction with Personal Data Before, During, and After Motorcycle Commuting’. In Human-Computer Interaction – INTERACT 2017, edited by Regina Bernhaupt, Girish Dalvi, Anirudha Joshi, Devanuj K. Balkrishan, Jacki O’Neill, and Marco Winckler, 10516:420–23. Cham: Springer International Publishing, 2017. [https://link.springer.com/chapter/10.1007/978-3-319-68059-0\_43](https://link.springer.com/chapter/10.1007/978-3-319-68059-0_43)
 
@@ -48,10 +46,10 @@ Closing keynote speech by Matt Jones
 
 ## Key points
 
-1.  How do we decide and fix the technology stack for the prototype, when the prototype is evolving? Working on the same stack will be easier and convenient for teams but less flexible. And the changing stack could be more flexible to achieve the goals, but not easy for the team.
-2.  Sketch vs Prototype? Identifying objective and scope of demonstration to really leverage on the feedback.
-3.  Sketches dominate the early ideation stages, whereas prototypes are more concentrated at the later stages where things are converging within the design funnel. Much of this has to do with how they differ with respect to the attributes of cost, timeliness, quantity, and disposability that we discussed above as characterizing sketches. (From Sketching User Experiences by Bill Buxton)
-4.  I think the most challenging part in making demo-able prototypes is the integration (of various parts inside the prototype and how they interact with each other). What I think happens (at least with us) is that we spend generous amounts of time in thinking and making individual components and do not anticipate what it means to integrate these several elements.
+1. How do we decide and fix the technology stack for the prototype, when the prototype is evolving? Working on the same stack will be easier and convenient for teams but less flexible. And the changing stack could be more flexible to achieve the goals, but not easy for the team.
+2. Sketch vs Prototype? Identifying objective and scope of demonstration to really leverage on the feedback.
+3. Sketches dominate the early ideation stages, whereas prototypes are more concentrated at the later stages where things are converging within the design funnel. Much of this has to do with how they differ with respect to the attributes of cost, timeliness, quantity, and disposability that we discussed above as characterizing sketches. (From Sketching User Experiences by Bill Buxton)
+4. I think the most challenging part in making demo-able prototypes is the integration (of various parts inside the prototype and how they interact with each other). What I think happens (at least with us) is that we spend generous amounts of time in thinking and making individual components and do not anticipate what it means to integrate these several elements.
 
 Our Team: Dr. Naveen Bagalkot , Dr.Tomas Sokoler, Riyaz Shaikh, Gaurav Singh, Anders Edelbo Lillie, Vignesh Chakravarthy, Pratiksha Dixit, Sapna Nayak, Mangesh Ashrit, Somya Saxena, Ashwin Senthil Kumar, and Aditi Rai.
  

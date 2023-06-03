@@ -1,6 +1,6 @@
 ---
 tags: post
-title: Leaving Srishti
+title: "Yearly note 2022: Leaving Srishti"
 date: 2022-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2022/workspace.jpg

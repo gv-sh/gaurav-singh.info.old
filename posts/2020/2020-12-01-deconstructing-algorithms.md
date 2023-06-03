@@ -1,7 +1,7 @@
 ---
 tags: post
 title: Deconstructing algorithms 2020
-attrib: DD,SS,AA,NP,SM
+attrib: with students
 date: 2020-12-01
 category: Exploration
 cover: https://cdn.mathscapes.xyz/static/images/2020/2020.jpg
@@ -9,6 +9,7 @@ layout: layouts/default.njk
 permalink: /notes/2020/deconstructing-algorithms/
 --- 
 
+This note features student work.
 
 <img src="https://cdn.mathscapes.xyz/static/images/2020/1.jpg"/>
 
@@ -133,10 +134,11 @@ Evening before the exhibition. The creators are shooting a tutorial video.
 
 Oribaka — A language to make Origami for the visually impaired. One of the activities pursued by all of the participants to build a first hand of understanding of "algorithmic thinking" - a systematic way of breaking down a task into smaller steps and then solving each of those steps in a logical manner. The activity was to create a language to make origami for the visually impaired. The language was created by the team and then showcased to several people to understand the effectiveness of the language.
 
-<iframe width="100%" height="500px" src="https://www.youtube.com/embed/_KFUswH6WJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="620px" src="https://www.youtube.com/embed/_KFUswH6WJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p class="caption">Brainstorming while building the language</p>
+Brainstorming while building the language
 
-<iframe width="100%" height="500px" src="https://www.youtube.com/embed/P2RBCs36yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p class="caption no-mt">Trying out the language with Rafiki folks</p>
+<iframe width="100%" height="620px" src="https://www.youtube.com/embed/P2RBCs36yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Trying out the language with Rafiki folks

@@ -1,6 +1,6 @@
 ---
 tags: post
-title: Beyond classrooms
+title: "Yearly note 2019: Beyond classrooms"
 date: 2019-12-31
 category: Reflection
 cover: https://cdn.mathscapes.xyz/static/images/2019/future-making.jpg

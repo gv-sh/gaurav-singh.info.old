@@ -1,6 +1,7 @@
 ---
 tags: post
-title: "Sakleshpur w/ ▲"
+title: Sakleshpur
+attrib: with Triangle
 date: 2018-12-01
 category: Photos
 cover: https://cdn.mathscapes.xyz/static/images/2018/skpr_4.jpg

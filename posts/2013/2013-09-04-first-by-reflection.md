@@ -28,8 +28,8 @@ In the future, I hope to explore different reflective practice models and find t
 
 ## Notes
 
-1.  Winter, Richard. “Buddhism and Action Research: Towards an Appropriate Model of Inquiry for the Caring Professions.” Educational Action Research 11, no. 1 (March 2003): 141-60. https://doi.org/10.1080/09650790300200208.
-2.  Mac Suibhne, Seamus. “‘Wrestle to Be the Man Philosophy Wished to Make You': Marcus Aurelius, Reflective Practitioner.” Reflective Practice 10, no. 4 (September 2009): 429-36. https://doi.org/10.1080/14623940903138266.
+1.  Winter, Richard. 'Buddhism and Action Research: Towards an Appropriate Model of Inquiry for the Caring Professions.' Educational Action Research 11, no. 1 (March 2003): 141-60. doi:[10.1080/09650790300200208](https://doi.org/10.1080/09650790300200208)
+2.  Mac Suibhne, Seamus. '‘Wrestle to Be the Man Philosophy Wished to Make You': Marcus Aurelius, Reflective Practitioner.' Reflective Practice 10, no. 4 (September 2009): 429-36. doi:[10.1080/14623940903138266](https://doi.org/10.1080/14623940903138266)
 3.  Dewey, John. How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process. Boston: Houghton Mifflin, 1998.
 4.  Schön, Donald A. The Reflective Practitioner: How Professionals Think in Action. New York: Basic Books, 1983.
 5.  Argyris, C., & Schön, D. A. (1978). Organizational learning: A theory of action perspective. Addison-Wesley.

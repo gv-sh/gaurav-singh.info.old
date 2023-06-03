@@ -1,7 +1,7 @@
 ---
 tags: post
 title: Situated memory
-attrib: SB+
+attrib: with Suraj Baadkar
 date: 2014-09-19
 category: Study
 cover: https://cdn.mathscapes.xyz/static/images/2014/situated-memory.jpg
