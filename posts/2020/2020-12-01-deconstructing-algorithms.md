@@ -25,7 +25,7 @@ Deconstructing Algorithms was offered as one of the thesis theme electives for t
 
 <img src="https://cdn.mathscapes.xyz/static/images/2020/2020.jpg"/>
 
-From left to right: Daksha Dixit [DD], Simran Singh [SS], Apoorva Avadhana [AA], Nupur Patny [NP] and Shreya Mishra [SM]
+In clockwise direction: Daksha Dixit, Simran Singh, Apoorva Avadhana, Nupur Patny and Shreya Mishra
 
 1.  [Daksha Dixit](https://in.linkedin.com/in/daksha-dixit-31161a166): Daksha is a design researcher passionate about education, healthcare, storytelling, and design thinking. Employing a variety of research techniques, she develops authentic solutions and uncovers relevant problems. Her experience includes projects in education, communication strategy, and curriculum design.
 2.  [Simran Singh](https://www.linkedin.com/in/simran-singh-7bba87137): Passionate about nature's systems and technology, Simran is a Human-Centered Design major. She works with emerging technologies to identify and design meaningful interactions, blending her curiosity and expertise to create innovative solutions.
@@ -134,11 +134,14 @@ Evening before the exhibition. The creators are shooting a tutorial video.
 
 Oribaka — A language to make Origami for the visually impaired. One of the activities pursued by all of the participants to build a first hand of understanding of "algorithmic thinking" - a systematic way of breaking down a task into smaller steps and then solving each of those steps in a logical manner. The activity was to create a language to make origami for the visually impaired. The language was created by the team and then showcased to several people to understand the effectiveness of the language.
 
-<iframe width="100%" height="620px" src="https://www.youtube.com/embed/_KFUswH6WJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/_KFUswH6WJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Brainstorming while building the language
 
-
-<iframe width="100%" height="620px" src="https://www.youtube.com/embed/P2RBCs36yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/P2RBCs36yzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Trying out the language with Rafiki folks

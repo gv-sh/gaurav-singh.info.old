@@ -27,6 +27,26 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>SVideo — Synced video playback with Raspberry Pi</title>
         <link rel="stylesheet" href="https://cdn.mathscapes.xyz/static/css/notebook.css">
+
+        <style>
+            .container {
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+            }
+
+            /* Then style the iframe to fit in the container div with full height and width */
+            .responsive-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            width: 100%;
+            height: 100%;
+            }
+        </style>
     </head>
 
     <body>
@@ -48,7 +68,7 @@
                     
                 </header>
                 
-                <img src="https://cdn.mathscapes.xyz/static/images/2020/svideo.jpg"/>
+                <img src="https://cdn.mathscapes.xyz/static/images/2019/reride.jpg"/>
 <p>Cover</p>
 <p>This project was done in collaboration with <a href="https://www.debanshubhaumik.com">Debanshu Bhaumik</a>, a Creative technologist &amp; New media art practitioner.</p>
 <p>Popularity and power of single board computers like Raspberry Pi have made it possible not just to promote the teaching of basic computer science but also to prototype and in fact, to be even used by artists in their installations who often have particular requirements to be met. Boards like Raspberry Pi are quite capable and in many cases can substitute full PCs for such installations. Playing single/multiple videos across multiple (and often large) displays require specialized hardware splitters and devices to read in video from a computer and then sent out to multiple devices in a synchronised manner. However, these devices are expensive and require an expert who has the know-how of using it. This small but meaningful realization by Debanshu eventually led us to build a simple API to facilitate synced video playback across multiple Raspberry Pi boards.</p>

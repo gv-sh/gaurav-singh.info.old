@@ -27,6 +27,26 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>ReRide</title>
         <link rel="stylesheet" href="https://cdn.mathscapes.xyz/static/css/notebook.css">
+
+        <style>
+            .container {
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+            }
+
+            /* Then style the iframe to fit in the container div with full height and width */
+            .responsive-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            width: 100%;
+            height: 100%;
+            }
+        </style>
     </head>
 
     <body>
@@ -48,7 +68,7 @@
                     
                 </header>
                 
-                <img src="https://cdn.mathscapes.xyz/static/images/2019/reride.jpg"/>
+                <img src="https://cdn.mathscapes.xyz/static/images/2019/reride-new.jpg"/>
 <p>Cover</p>
 <p>This project is continuation of original ReRide design experiment started by Dr. Naveen Bagalkot and Suraj Baadkar at Srishti Institute of Art, Design &amp; Technology, Bangalore in collaboration with Tomas Sokoler at the Digital Design Department at the IT University of Copenhagen.</p>
 <p>The motorcycle could soon be the new frontier for the exploration of human interaction with advanced digital technology. In this paper we present a demo of a system designed and implemented as platform exploring the design of personal informatics tools for motorbike commuting and help us conduct in-situ evaluation of such tools. We present the system architecture and demonstrate the capabilities of the system by presenting a case instantiation in the form of an interactive soft-and- hardware prototype that collects rider’s posture data, visualizes the data on the motorbike dashboard in real-time, and pushes the data to the cloud server for later retrieval. (Excerpt from the demo paper we submitted for Interact 2017 conference)</p>
