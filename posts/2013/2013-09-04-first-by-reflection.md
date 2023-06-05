@@ -3,14 +3,10 @@ tags: post
 title: First, by reflection
 date: 2013-09-04
 category: Study
-cover: https://cdn.mathscapes.xyz/static/images/2013/reflection.jpg
+cover: https://cdn.mathscapes.xyz/static/images/empty.svg
 layout: layouts/default.njk
 permalink: /notes/2013/first-by-reflection/
 --- 
-
-<img src="https://cdn.mathscapes.xyz/static/images/2013/reflection.jpg"/>
-
-Cover 
 
 \> By three methods, we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third, by experience, which is the bitterest. — Confucius
 

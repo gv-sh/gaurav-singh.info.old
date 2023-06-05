@@ -1,11 +1,11 @@
 ---
 tags: post
-title: OOAD workshop for foundation students
+title: Digital Making workshop for foundation students
 date: 2017-09-25
 category: Workshop
 cover: https://cdn.mathscapes.xyz/static/images/2017/2.jpg
 layout: layouts/default.njk
-permalink: /notes/2017/ooad-workshop/
+permalink: /notes/2017/digital-making/
 --- 
 
 <img src="https://cdn.mathscapes.xyz/static/images/2017/1.jpg"/>

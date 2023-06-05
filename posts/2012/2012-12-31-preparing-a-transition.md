@@ -3,14 +3,10 @@ tags: post
 title: "Yearly note 2012: Preparing a transition"
 date: 2012-12-31
 category: Reflection
-cover: https://cdn.mathscapes.xyz/static/images/2012/2012.jpg
+cover: https://cdn.mathscapes.xyz/static/images/empty.svg
 layout: layouts/default.njk
 permalink: /notes/2012/preparing-a-transition/
 --- 
-
-<img src="https://cdn.mathscapes.xyz/static/images/2012/2012.jpg"/>
- 
-Cover 
 
 In 2012, I encountered a period of slowing down as I transitioned from completing my 4-year engineering program in Computer Science to discovering the design field. The year was filled with uncertainties as I navigated unplanned, embracing challenges and opportunities for personal development. Shortly after concluding my engineering studies, I relocated to Chennai. I wasn't bothered about getting a job; just keen on furthering my education and expanding.
 

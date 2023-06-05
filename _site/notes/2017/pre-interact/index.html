@@ -27,25 +27,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Working on ReRide demo for Interact 2017</title>
         <link rel="stylesheet" href="https://cdn.mathscapes.xyz/static/css/notebook.css">
-
-        <style>
-            .container {
-            position: relative;
-            overflow: hidden;
-            width: 100%;
-            padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-            }
-
-            /* Then style the iframe to fit in the container div with full height and width */
-            .responsive-iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            width: 100%;
-            height: 100%;
-            }
         </style>
     </head>
 
@@ -68,7 +49,9 @@
                     
                 </header>
                 
-                <iframe width="100%" height="620px" src="https://www.youtube.com/embed/1MNWDkfnBso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/1MNWDkfnBso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 <p>&gt; What if information about a rider’s condition such as body posture, lean angles, heart-rate, etc., were made available as part of the ride experience?</p>
 <p>The following story is a glimpse into our ongoing research through designing a platform to explore, design, and in-situ test ideas for interactions with personal data around motorcycle riding.</p>
 <p>What if information about a rider’s condition such as body posture, lean angles, and heartrate, were made available as part of the ride experience? A glimpse into our ongoing research into designing a platform to explore, design, and in-situ test ideas for interactions with personal data around motorcycle riding. In collaboration with the Digital Design Department at the IT University of Copenhagen.</p>

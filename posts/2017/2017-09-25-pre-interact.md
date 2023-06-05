@@ -8,7 +8,9 @@ layout: layouts/default.njk
 permalink: /notes/2017/pre-interact/
 ---  
 
-<iframe width="100%" height="620px" src="https://www.youtube.com/embed/1MNWDkfnBso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/1MNWDkfnBso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 \> What if information about a rider’s condition such as body posture, lean angles, heart-rate, etc., were made available as part of the ride experience?
 
