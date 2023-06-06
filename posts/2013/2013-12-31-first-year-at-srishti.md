@@ -18,4 +18,4 @@ However, I began to appreciate that these courses were designed to help us under
 
 Although the year went by quickly, I had my fair share of challenges. I struggled to find the level of depth I hoped for in some aspects of our learning. However, I found the people at Srishti to be much gentler in their approach, and it was inspiring to see the diverse range of interests and projects my peers were engaged in.
 
-One thing that stood out was the opportunity for independent learning, where students took charge of what they wanted to study. This new perspective opened my view to opportunities to grow and improve. Reflecting on my experiences in 2013, I realized I had developed. I gained new perspectives and skills and learned to be more open. 
+One thing that stood out was the opportunity for independent learning, where students took charge of what they wanted to study. This new perspective opened my view to opportunities to grow and improve. Reflecting on my experiences in 2013, I realized I had developed. I gained new perspectives and skills and learned to be more open.  
